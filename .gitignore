@@ -1,0 +1,18 @@
+
+# Ignore build directories
+/build/
+/dist/
+
+# Ignore NetBeans specific files
+nbproject/private/
+nbproject/Build/
+nbproject/Makefile-*
+nbproject/Package/
+nbproject/configs/
+
+# Ignore IDE specific files
+.nb-gradle/
+.nb-gradle-private/
+.nb-gradle-current/
+.DS_Store
+*.swp
